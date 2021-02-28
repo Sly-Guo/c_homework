@@ -1,7 +1,9 @@
 # c_homework
 just a lame program for a little exam
 
-## carl‘s lame work 
+## my lame work 
+all rights held by sly guo, or carl guo.
+Perhabs i should get my english name fixed.
 
 ## brief and simple decription
 
